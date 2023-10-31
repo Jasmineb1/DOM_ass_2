@@ -1,0 +1,36 @@
+Asynchronous JavaScript :- 
+
+synchronous Programming :-execute line by line (one operation at a time)
+- single thread:- it runs in line by line
+- blocking code :- doesn't execute after completed it will wait until it finished
+
+Asynchronous JavaScript :-
+there is stack in js,that is 
+
+what is asynchronous js?
+it will run simultaneously (it will complete the task enen if previous is not completed yet)
+
+where it is used?
+- used in many browser functionalities
+- make https request
+
+how it is possible?
+magic of event loop:- it will complete the works in diff 
+
+what is call back?
+function passed to another functions as argument
+
+//promises
+used to implement the asynchronoush operation
+there are three typpes
+fullfill,
+pending
+rejected
+
+
+//consume promises
+
+//creating your promise
+
+
+//chaining promises
